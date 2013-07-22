@@ -37,7 +37,6 @@ It really doesn't matter what editor you use, so long as it makes **you** happy.
 7. Befriend your dev tools
 
 https://developers.google.com/chrome-developer-tools/
-
 http://fixingthesejquery.com/
 
 ## Write about it!
@@ -77,11 +76,11 @@ Follow EVERYONE on that list. Make it your main feed. Your signal to noise ratio
 
 
 5. Github
+- Open a Github Account
 - Learn some Git basics
 	- https://help.github.com/
 	- http://git-scm.com/book
 	- http://try.github.io/
-- Open a Github Account
 - Push code to it. Doesn't matter what. How about your sketchbook!
 
 
