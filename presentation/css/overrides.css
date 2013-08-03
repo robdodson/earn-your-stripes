@@ -13,4 +13,5 @@ section[data-state="blackout"] small {
 
 section[data-state="blackout"] small a {
 	color: #CCCCCC !important;
+	text-decoration: underline !important;
 }
