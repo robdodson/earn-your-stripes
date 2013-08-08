@@ -1,0 +1,17 @@
+/*
+Override some of reveal's default CSS styles.
+You might see a few !importants in here. Avert your eyes...
+ */
+
+section[data-state="blackout"] h3 {
+	color: #EEEEEE;
+}
+
+section[data-state="blackout"] small {
+	font-style: italic;
+}
+
+section[data-state="blackout"] small a {
+	color: #CCCCCC !important;
+	text-decoration: underline !important;
+}
